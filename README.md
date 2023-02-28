@@ -1,4 +1,4 @@
-# Pole Zero Response Plotter using C++ and Qt
+# Pole Zero Response Plotter using C++ and Qt6
 Firstly, please obtain Qt from https://www.qt.io/ and add it to "Path" which also must have been done automatically by the Qt itself. To accomplish this step manually, please follow the steps below;
 
 1- Press "Windows" key,
