@@ -12,6 +12,8 @@ Firstly, please obtain Qt from https://www.qt.io/ and add it to "Path" which als
 5- After pressing "New", enter "C:\Qt\6.4.2\mingw_64\bin" and press "Enter". If you create new, do not forget to set the variable name as "Path".
 
 Now, you can run the program using "release\pole_zero_response_plotter.exe".
+
+**Attention, source codes are added to /src**
 #
 <p align="center">s-plane Magnitude Response</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/77770587/221771068-025baa6d-e012-4a34-8522-61bc61e3896f.png" width="900"></p>
